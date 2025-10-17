@@ -1,0 +1,5 @@
+name: BlockInspector
+main: com.blockycraft.inspector.BlockInspector
+version: 1.0
+author: Zukerman
+description: Clicar com um graveto em um bloco para ver suas informacoes.
