@@ -38,5 +38,3 @@ Reporte bugs em [issues](https://github.com/andradecore/BlockInspector/issues).
 ## Contato:
 
 - Discord: https://discord.gg/tthPMHrP
-
-Bim bom
